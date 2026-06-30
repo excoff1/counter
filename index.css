@@ -25,6 +25,9 @@ button {
     cursor: pointer;
     margin-right: 5px;
 }
+.counter {
+    margin-top:12px;
+}
 .plus:hover {
     background-color: chartreuse;
     transition: .5s;
